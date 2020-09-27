@@ -10,3 +10,11 @@
 #Random Talk
 I'm Huitong Kou.
 My partner is Yike Wang.
+
+### Comments from Yike Wang
+
+Great work!
+
+Some tips from lecture notes:
+- pull often
+- commit your changes before pulling. Any change to an uncommitted file would stop the pull update
