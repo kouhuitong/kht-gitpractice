@@ -18,6 +18,17 @@ My partner is Yike Wang.
 git log --graph
 git log --pretty=oneline
 git status
+git add
+git commit
 git push
 git pull
 ```
+
+### Comments from Yike Wang
+
+Great work!
+
+Some tips from lecture notes:
+- pull often
+- commit your changes before pulling. Any change to an uncommitted file would stop the pull update
+
