@@ -25,4 +25,6 @@ Awesome!
 - `git add .` is very useful.
 - `git pull` often.
 
+### Git Branching
+Great for teamwork!
 
