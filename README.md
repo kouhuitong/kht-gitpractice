@@ -32,3 +32,4 @@ Some tips from lecture notes:
 - pull often
 - commit your changes before pulling. Any change to an uncommitted file would stop the pull update
 
+It is rainy today.
