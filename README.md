@@ -7,9 +7,22 @@
 - Based on these ideas, both of you should edit the same file around the same place, separately, make a commit and push your commits to GitHub to create a conflict. Let the other person push their commit first, so you push second and you resolve the conflict. Actually: you will need to pull the other person's commit that conflicts with your own, resolve the conflict locally, then push the merged commit.
 - Repeat the same process, but on the other student's repository. This time, you should push your commit first, and the other student should resolve the conflict for the repository that they own.
 
-#Random Talk
+# Random Talk
+
 I'm Huitong Kou.
 My partner is Yike Wang.
+
+# Tips
+
+```bash
+git log --graph
+git log --pretty=oneline
+git status
+git add
+git commit
+git push
+git pull
+```
 
 ### Comments from Yike Wang
 
@@ -18,6 +31,8 @@ Great work!
 Some tips from lecture notes:
 - pull often
 - commit your changes before pulling. Any change to an uncommitted file would stop the pull update
+
+It is rainy today.
 
 branching practice for today
 
