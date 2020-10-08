@@ -35,3 +35,6 @@ Some tips from lecture notes:
 GitHub has a tutorial with great visuals, on creating repositories, using branches and collaborate with each other.
 
 Branches are very useful to easily switch back and forth between different versions. Each version can still evolve.
+
+It is rainy today.
+
