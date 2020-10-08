@@ -32,3 +32,6 @@ Some tips from lecture notes:
 - pull often
 - commit your changes before pulling. Any change to an uncommitted file would stop the pull update
 
+GitHub has a tutorial with great visuals, on creating repositories, using branches and collaborate with each other.
+
+Branches are very useful to easily switch back and forth between different versions. Each version can still evolve.
